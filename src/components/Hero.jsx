@@ -134,9 +134,12 @@ const Hero = () => {
             <h1 className="text-blue-100 special-font hero-heading">
               H<b>A</b>S
             </h1>
-            <p className="mb-5 text-blue-100 max-w-64 font-robert-regular">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam,
-              sed?
+            <p className="mb-5 text-lg text-blue-100 max-w-96 font-robert-regular">
+              De bouwsector vereist gedetailleerde planning en expertise. Wij
+              bieden professionele onderaannemingsdiensten voor elk type
+              bouwproject met onze jarenlange ervaring en sterk team. We
+              garanderen kwaliteit en tijdige oplevering in elke fase van uw
+              project.
             </p>
           </div>
         </div>

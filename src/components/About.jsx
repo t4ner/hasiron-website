@@ -29,15 +29,14 @@ const About = () => {
           Welcome to IRON HAS
         </h2>
         <AnimatedTitle
-          title="Disc<b>o</b>ver the world's <br /> largest shared <b>a</b>dventure"
+          title="Toekomstgeric<b>h</b>te Gebouwen, Veilig Gebouwd vanaf Vandaag"
           containerClass="mt-5 !text-black text-center"
         />
 
         <div className="about-subtext">
-          <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores
-          </p>
-          <p>Has Iron Lorem ipsum dolor sit amet.</p>
+          Woon-, commerciële of industriële projecten.. Ongeacht de sector,
+          bieden we oplossingen die voldoen aan de eisen van elk type bouw, en
+          staan we aan uw zijde met de beste engineering- en beheerspraktijken.
         </div>
       </div>
       <div className="w-screen h-dvh" id="clip">
